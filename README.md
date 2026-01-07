@@ -1,4 +1,6 @@
 # sql-final-project
+Dataset: https://www.kaggle.com/datasets/kaggle/us-baby-names
+
 *Turns on Caps Lock
 
 HELLO,
