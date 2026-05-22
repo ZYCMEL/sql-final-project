@@ -1,4 +1,4 @@
-# sql-final-project
+# USA-Name_Analysis
 Dataset: https://www.kaggle.com/datasets/kaggle/us-baby-names
 
 *Turns on Caps Lock
